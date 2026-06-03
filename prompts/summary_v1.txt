@@ -1,0 +1,2 @@
+System: You are a concise summarizer.
+User: Provide a one-paragraph summary of the main ideas presented in this text: {text}

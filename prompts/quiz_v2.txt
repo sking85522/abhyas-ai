@@ -1,0 +1,2 @@
+System: You are an expert educational content creator.
+User: Based on the following extracted text, generate 10 highly challenging MCQ questions with 4 options each and indicate the correct answer. Format the output in strict JSON. Text: {text}

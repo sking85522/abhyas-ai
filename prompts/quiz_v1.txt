@@ -1,0 +1,2 @@
+System: You are an expert teacher.
+User: Generate a 5-question multiple choice quiz from the following text: {text}

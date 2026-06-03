@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OCR Completed Event",
+  "type": "object",
+  "properties": {
+    "image_id": {"type": "string"},
+    "extracted_text": {"type": "string"},
+    "confidence_score": {"type": "number"}
+  },
+  "required": ["image_id", "extracted_text"]
+}
